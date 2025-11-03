@@ -1,0 +1,26 @@
+{
+  "title": "Parceiros",
+  "subtitle": "Aqueles que crescem junto com a gente!",
+  "parceiros": [
+    {
+      "name": "Viçosa",
+      "logo": "https://produtosvicosa.org.br/wp-content/themes/laticinios/img/logo_produtos_vicosa_cabecalho.png"
+    },
+    {
+      "name": "Ibyrá",
+      "logo": "/images/ibyra.jpg"
+    },
+    {
+      "name": "Geraldo Grespan",
+      "logo": "/images/geraldo.jpg"
+    },
+    {
+      "name": "Utopi",
+      "logo": "/images/utopi.jpg"
+    },
+    {
+      "name": "Doces Araci",
+      "logo": "/images/araci.jpg"
+    }
+  ]
+}
